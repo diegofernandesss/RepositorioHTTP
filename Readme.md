@@ -15,5 +15,5 @@
 
 <ol>
   <li>Diego Fernandes</li>
-  <li>Matheus Sales</li>
+  <li>Matheus Soares</li>
 </ol>
